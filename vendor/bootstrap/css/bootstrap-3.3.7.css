@@ -8,10 +8,10 @@ html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+	
 }
 body {
-  margin: 0;
-background-image: url( ../../../imagenes/fondo tractroz.jpg)
+	background-image: url(../../../imagenes/fondo tractroz.jpg );	
 }
 article,
 aside,
@@ -198,6 +198,7 @@ th {
     background: transparent !important;
     -webkit-box-shadow: none !important;
             box-shadow: none !important;
+	  
   }
   a,
   a:visited {
@@ -4517,6 +4518,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > li > a:focus {
   color: #333;
   background-color: transparent;
+	
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,

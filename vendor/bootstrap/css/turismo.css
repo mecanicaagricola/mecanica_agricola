@@ -17,7 +17,7 @@ font-family: 'Boogaloo', cursive;
 }
 
 body {
-	background-image: url( ../../../images/PHOTO_20170413_164434_fx.jpg);
+	background-image: url(  ../../../imagenes/fondo_tractroz.jpg);
 }
 
 .container-fluid {
@@ -87,7 +87,7 @@ a.navbar-brand {
 }
 
 a {
-	background: rgba(0,0,0,0.50);
+	background:rgba(0,0,0,0.75);
 	color: aqua;
 	font-family: 'Josefin Slab', serif;
 font-family: 'Boogaloo', cursive;
@@ -264,7 +264,7 @@ float: left
 
 
 div.RR {
-	background:  #FF8600;
+	background: rgba(114,0,1,0.84);
 	margin-left:120px;
 	margin-right:120px;
 	font-size:20px;
@@ -298,9 +298,21 @@ div.butt {
 
 
 
+main.wind1 {
+	background:  rgba(255,255,255,0.89);
+	padding: 20px;
+	margin-top: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+		
+}
 
+h3.subtitle1 {
+	color: rgba(114,21,23,1.00);
+	font-family:
+}
 
-
-
-
-
+.par1 {
+	font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif"
+}
