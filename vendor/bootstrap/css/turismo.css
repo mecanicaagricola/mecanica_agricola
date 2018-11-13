@@ -391,3 +391,33 @@ main.port4 {
 	padding: 19%;
 	margin-left: 10%
 }
+
+main.document {
+	background:rgba(255,255,255,0.89);
+	margin-right:20%;
+	margin-left:12%;
+	margin-top: 90px;
+	padding-left: 10%
+}
+
+h3.tuli_document {
+	color: rgba(4,6,39,1.00);
+	text-align:center;
+	padding:15px
+}
+
+P.descargar {
+	color: rgba(247,0,4,1.00);
+	font-size: 20px;
+	padding: 10px;
+	
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	margin-right: 29%;
+	
+}
+
+.link {
+	color:rgba(252,251,171,1.00)
+}
+
+
