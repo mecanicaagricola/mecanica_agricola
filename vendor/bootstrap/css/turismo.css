@@ -162,9 +162,7 @@ font-family: 'Boogaloo', cursive;
 p {
 	text-align: justify;
 	font-size: 15px;
-	font-family: 'Josefin Slab', serif;
-font-family: 'Boogaloo', cursive;
-font-family: 'Overlock', cursive;	
+		
 		
 		
 }
@@ -421,3 +419,34 @@ P.descargar {
 }
 
 
+
+
+
+main.back {
+	background: rgba(0,0,0,0.77)
+}
+
+h1.TITULO {
+	color: rgba(255,190,0,1.00)
+}
+
+h2.title_grad {
+	font:"Mechanical Animals";
+	color:rgba(255,214,0,1.00);
+	font-size:100px
+}
+
+p.century {
+	font-family: "Century Gothic";
+	color:aliceblue
+}
+
+h1.my-4 {
+ color:aliceblue;
+	font-family:"Century Gothic"
+
+}
+
+small.linecolor {
+	color: rgba(129,255,0,1.00)
+}
